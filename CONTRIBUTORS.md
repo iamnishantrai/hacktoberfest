@@ -4101,3 +4101,8 @@ Noida
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
  - GitHub: [yerenutku](https://github.com/yerenutku)
+
+ #### Name: [Amogha] (https://github.com/amo2123)
+ - Place: Noida, India
+ - Bio: Student ~ Btech
+ - GitHub: [amo2123](https://github.com/amo2123)
